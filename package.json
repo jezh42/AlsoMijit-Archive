@@ -53,7 +53,7 @@
     "hls-parser": "^0.10.4",
     "ioredis": "^5.2.3",
     "moment": "^2.29.4",
-    "pg": "^8.8.0",
+    "pg": "^8.11.1",
     "qs": "^6.11.0",
     "rate-limiter-flexible": "^2.4.1",
     "redis": "^4.3.1",
